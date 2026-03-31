@@ -1,0 +1,2 @@
+config SHIELD_novo_01
+def bool $(shelds_list_contains, novo_01)
