@@ -1,6 +1,6 @@
 if SHIELD_NOVO_01
 
   config ZMK_KEYBOARD_NAME
-    default "novo01"
+    default "novo_01"
 
-  endif
+endif
