@@ -1,3 +1,6 @@
 include:
   - board: nice_nano_v2
     shield: novo_01
+  - board: nice_nano_v2
+    shield: pro_micro_tester
+
