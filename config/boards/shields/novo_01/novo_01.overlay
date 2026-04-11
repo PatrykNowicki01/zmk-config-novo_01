@@ -1,6 +1,6 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 #define USE_SOC_NRF52840
-#include "common_display_layout.dtsi"
+
 
 
 / {
